@@ -5,20 +5,6 @@
 
 - 🌱 I’m currently learning **everything I can from data analytics**
 
-- 📫 How to reach me **veronica.dom.rios@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-
-<div align="center">
-<a href="https://github.com/VeronicaDomR" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/veronicadominguezrios" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-</a>  
-</div>  
-
-<h3 align="left">Summary:</h3>
 <p align="left">I have completed several data analysis projects as part of Laboratoria's rigorous training program. My work involved analyzing data sets, creating visualizations, and deriving actionable insights to support decision-making. These projects helped me develop strong analytical skills and proficiency in various data analysis tools.</p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -44,11 +30,19 @@
    <li><a href="https://github.com/VeronicaDomR/citi_bikes">Exploratory Analysis of the Citi Bike Shared Bike Program</a> - This project focuses on performing an exploratory analysis of the Citi Bike shared bike program. The goal is to understand usage patterns, identify historical trends, and provide recommendations for strategic decision-making.</li>
    <li><a href="https://github.com/VeronicaDomR/Proyecto3_Riesgo_relativo">Relative Risk Project</a> - Proposal for automating the analysis process using advanced data analysis techniques, with the aim of improving efficiency, accuracy, and speed in evaluating credit applications.</li>
 </ul>
-
-
-
 <h3 align="left">Personal Interests:</h3>
 <p align="left">In my free time, I am passionate about CrossFit. I enjoy the challenge and discipline it brings to my life, and it helps me stay fit and focused.</p>
 
+- 📫 How to reach me **veronica.dom.rios@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+
+<div align="center">
+<a href="https://github.com/VeronicaDomR" target="_blank">
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/veronicadominguezrios" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
