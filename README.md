@@ -23,7 +23,35 @@
 </a>  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" />
-</a>  
+   <a href="https://lookerstudio.google.com/" target="_blank">
+<img style="margin: 10px" src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_data_studio.svg" alt="Looker Studio" height="50" />
+</a>
+<a href="https://visualstudio.microsoft.com/" target="_blank">
+<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio/visual-studio.png" alt="Visual Studio" height="50" />
+</a>
+<a href="https://cloud.google.com/bigquery" target="_blank">
+<img style="margin: 10px" src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_bigquery.svg" alt="BigQuery" height="50" />
+</a>
+<a href="https://colab.research.google.com/" target="_blank">
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/512px-Google_Colaboratory_SVG_Logo.svg.png" alt="Google Colab" height="50" />
+</a>
+<h3 align="left">Languages:</h3>
+<ul>
+  <li>Python</li>
+</ul>
+
+<h3 align="left">Tools:</h3>
+<ul>
+  <li>Google Cloud Platform (GCP)</li>
+  <li>Tableau</li>
+  <li>MySQL</li>
+  <li>Power BI</li>
+  <li>Looker Studio</li>
+  <li>Visual Studio</li>
+  <li>BigQuery</li>
+  <li>Google Colab</li>
+</ul>
+
 </p>
 <h3 align="left">Featured Projects:</h3>
 <ul>
